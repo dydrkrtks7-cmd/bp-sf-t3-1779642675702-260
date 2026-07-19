@@ -7,4 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://sf-t3-1779642675702-260.maphoshirts.xyz/sitemap.xml
+Sitemap: https://mapo-cafe-local.pbn-builder.xyz/sitemap.xml
